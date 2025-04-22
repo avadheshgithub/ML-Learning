@@ -20,6 +20,6 @@ This repository is a documentation of my **daily progress**, insights, and proje
 
 ## 📊 Progress
 
-### `Day 1 → Day 54 ✅ Completed`
+### `Day 1 → Day 53 ✅ Completed`
 ```text
 ███████████████████████████████████████████░░░░░░░░░░░ 54%
