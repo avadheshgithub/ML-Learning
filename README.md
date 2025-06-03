@@ -14,7 +14,7 @@ This repository documents my **daily progress**, insights, and projects as I mas
 
 > ✅ Inspired by the #100DaysOfMLCode movement.  
 > 🧩 Hands-on coding, mini-projects, and theoretical learning.  
-> 📈 Daily consistency to build strong fundamentals.
+> 📈 Daily consistency to build strong fundamental.
 
 ---
 
