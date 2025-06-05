@@ -10,7 +10,7 @@
 ## 🚀 Overview
 
 Welcome to my **100 Days of Machine Learning Challenge**!  
-This repository documents my **daily progress**, insights, and projects as I master the core concepts of Machine Learning and its real-world applications.
+This repository documents my **daily progress**, insights, and projects as I master the core concepts of Machine Learning and its real-world application.
 
 > ✅ Inspired by the #100DaysOfMLCode movement.  
 > 🧩 Hands-on coding, mini-projects, and theoretical learning.  
